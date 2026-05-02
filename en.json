@@ -248,5 +248,6 @@
     "use_software_encode_video_subtitle": "May prevent some devices from playing the video",
     "video_sound": "Video sound",
     "video_sound_subtitle": "Only this app or web apps can hear it"
-  }
+  },
+  "comment": "Comment"
 }
