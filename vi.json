@@ -251,5 +251,12 @@
     "video_sound_subtitle": "Chỉ app này hoặc các web app mới nghe được",
     "action": "Hành động"
   },
-  "comment": "Bình luận"
+  "comment": "Bình luận",
+  "changelog": {
+    "title": "Có gì mới?",
+    "current_version": "Phiên bản hiện tại",
+    "new": "Mới",
+    "improve": "Cải thiện",
+    "fix": "Sửa lỗi"
+  }
 }
