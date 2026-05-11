@@ -250,5 +250,12 @@
     "video_sound": "Video audio",
     "video_sound_subtitle": "Only unofficial clients can playback audio"
   },
-  "comment": "Comment"
+  "comment": "Comment",
+  "changelog": {
+    "title": "What's new?",
+    "current_version": "Current version",
+    "new": "New",
+    "improve": "Improve",
+    "fix": "Fix"
+  }
 }
