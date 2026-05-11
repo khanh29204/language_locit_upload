@@ -248,7 +248,9 @@
     "use_software_encode_video": "Use software video encoding",
     "use_software_encode_video_subtitle": "May prevent some devices from playing the video",
     "video_sound": "Video audio",
-    "video_sound_subtitle": "Only unofficial clients can playback audio"
+    "video_sound_subtitle": "Only unofficial clients can playback audio",
+    "action": "Action",
+    "blur_caption_effect": "Blur caption effect"
   },
   "comment": "Comment",
   "changelog": {

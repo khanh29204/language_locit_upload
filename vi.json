@@ -249,7 +249,8 @@
     "use_software_encode_video_subtitle": "Có thể khiến 1 số thiết bị không xem được video",
     "video_sound": "Âm thanh trong video",
     "video_sound_subtitle": "Chỉ app này hoặc các web app mới nghe được",
-    "action": "Hành động"
+    "action": "Hành động",
+    "blur_caption_effect": "Hiệu ứng làm mờ chú thích"
   },
   "comment": "Bình luận",
   "changelog": {
