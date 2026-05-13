@@ -250,7 +250,8 @@
     "video_sound": "Âm thanh trong video",
     "video_sound_subtitle": "Chỉ app này hoặc các web app mới nghe được",
     "action": "Hành động",
-    "blur_caption_effect": "Hiệu ứng làm mờ chú thích"
+    "blur_caption_effect": "Hiệu ứng làm mờ chú thích",
+    "select_color": "Chọn màu"
   },
   "comment": "Bình luận",
   "changelog": {

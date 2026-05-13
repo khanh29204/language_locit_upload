@@ -250,7 +250,8 @@
     "video_sound": "Video audio",
     "video_sound_subtitle": "Only unofficial clients can playback audio",
     "action": "Action",
-    "blur_caption_effect": "Blur caption effect"
+    "blur_caption_effect": "Blur caption effect",
+    "select_color": "Select color"
   },
   "comment": "Comment",
   "changelog": {
