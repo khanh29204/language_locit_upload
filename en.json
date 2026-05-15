@@ -251,7 +251,8 @@
     "video_sound_subtitle": "Only unofficial clients can playback audio",
     "action": "Action",
     "blur_caption_effect": "Blur caption effect",
-    "select_color": "Select color"
+    "select_color": "Select color",
+    "default_grid": "Default view history grid"
   },
   "comment": "Comment",
   "changelog": {

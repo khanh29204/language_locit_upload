@@ -251,7 +251,8 @@
     "video_sound_subtitle": "Chỉ app này hoặc các web app mới nghe được",
     "action": "Hành động",
     "blur_caption_effect": "Hiệu ứng làm mờ chú thích",
-    "select_color": "Chọn màu"
+    "select_color": "Chọn màu",
+    "default_grid": "Mặc định xem lịch sử dạng lưới"
   },
   "comment": "Bình luận",
   "changelog": {
