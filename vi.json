@@ -252,7 +252,8 @@
     "action": "Hành động",
     "blur_caption_effect": "Hiệu ứng làm mờ chú thích",
     "select_color": "Chọn màu",
-    "default_grid": "Mặc định xem lịch sử dạng lưới"
+    "default_grid": "Mặc định xem lịch sử dạng lưới",
+    "haptic_feedback": "Phản hồi xúc giác"
   },
   "comment": "Bình luận",
   "changelog": {

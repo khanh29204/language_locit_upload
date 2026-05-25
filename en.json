@@ -252,7 +252,8 @@
     "action": "Action",
     "blur_caption_effect": "Blur caption effect",
     "select_color": "Select color",
-    "default_grid": "Default view history grid"
+    "default_grid": "Default view history grid",
+    "haptic_feedback": "Haptic feedback"
   },
   "comment": "Comment",
   "changelog": {
