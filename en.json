@@ -270,5 +270,10 @@
     "user": "Friends",
     "all_users": "All friends",
     "filter": "Filter"
+  },
+  "poll": {
+    "title": "Poll",
+    "question": "Question",
+    "input_question": "Enter question..."
   }
 }

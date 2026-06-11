@@ -270,5 +270,10 @@
     "user": "Bạn bè",
     "all_users": "Tất cả bạn bè",
     "filter": "Xác nhận"
+  },
+  "poll": {
+    "title": "Khảo sát",
+    "question": "Câu hỏi",
+    "input_question": "Nhập câu hỏi..."
   }
 }
