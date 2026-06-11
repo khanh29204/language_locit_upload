@@ -275,5 +275,6 @@
     "title": "Poll",
     "question": "Question",
     "input_question": "Enter question..."
-  }
+  },
+  "friends_loading": "Loading friends list..."
 }

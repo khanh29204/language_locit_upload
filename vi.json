@@ -275,5 +275,6 @@
     "title": "Khảo sát",
     "question": "Câu hỏi",
     "input_question": "Nhập câu hỏi..."
-  }
+  },
+  "friends_loading": "Đang tải danh sách bạn bè..."
 }
