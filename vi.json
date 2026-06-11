@@ -262,5 +262,13 @@
     "new": "Mới",
     "improve": "Cải thiện",
     "fix": "Sửa lỗi"
+  },
+  "filter_moment": {
+    "title": "Lọc khoảnh khắc",
+    "time_start": "Thời gian bắt đầu",
+    "time_end": "Thời gian kết thúc",
+    "user": "Bạn bè",
+    "all_users": "Tất cả bạn bè",
+    "filter": "Xác nhận"
   }
 }

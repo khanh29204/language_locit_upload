@@ -262,5 +262,13 @@
     "new": "New",
     "improve": "Improve",
     "fix": "Fix"
+  },
+  "filter_moment": {
+    "title": "Filter moments",
+    "time_start": "Start time",
+    "time_end": "End time",
+    "user": "Friends",
+    "all_users": "All friends",
+    "filter": "Filter"
   }
 }
