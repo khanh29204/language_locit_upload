@@ -269,7 +269,8 @@
     "time_end": "End time",
     "user": "Friends",
     "all_users": "All friends",
-    "filter": "Filter"
+    "filter": "Filter",
+    "start_date_invalid": "Start date cannot be greater than end date"
   },
   "poll": {
     "title": "Poll",

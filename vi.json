@@ -269,7 +269,8 @@
     "time_end": "Thời gian kết thúc",
     "user": "Bạn bè",
     "all_users": "Tất cả bạn bè",
-    "filter": "Xác nhận"
+    "filter": "Xác nhận",
+    "start_date_invalid": "Ngày bắt đầu không được lớn hơn ngày kết thúc"
   },
   "poll": {
     "title": "Khảo sát",
