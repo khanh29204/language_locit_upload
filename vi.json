@@ -277,5 +277,8 @@
     "question": "Câu hỏi",
     "input_question": "Nhập câu hỏi..."
   },
-  "friends_loading": "Đang tải danh sách bạn bè..."
+  "friends_loading": "Đang tải danh sách bạn bè...",
+  "locket_count": {
+    "title": "Số khoảnh khắc"
+  }
 }

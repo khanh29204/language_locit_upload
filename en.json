@@ -277,5 +277,8 @@
     "question": "Question",
     "input_question": "Enter question..."
   },
-  "friends_loading": "Loading friends list..."
+  "friends_loading": "Loading friends list...",
+  "locket_count": {
+    "title": "Locket count"
+  }
 }
