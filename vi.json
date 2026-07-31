@@ -280,5 +280,20 @@
   "friends_loading": "Đang tải danh sách bạn bè...",
   "locket_count": {
     "title": "Số khoảnh khắc"
+  },
+  "widget_frame": {
+    "title": "Khung widget",
+    "change_frame": "Thay đổi khung widget",
+    "change_frame_desc": "Chọn khung viền hiển thị trên widget",
+    "pick": "Chọn khung",
+    "none": "Không dùng",
+    "priority_title": "Chế độ ưu tiên",
+    "priority_desc": "Quyết định dùng khung của Locket hay khung bạn chọn",
+    "locket_first": "Ưu tiên khung của Locket",
+    "always_override": "Luôn dùng khung của tôi",
+    "empty": "Chưa có khung nào",
+    "load_failed": "Không tải được danh sách khung",
+    "save_success": "Đã lưu khung widget",
+    "save_failed": "Lưu khung widget thất bại"
   }
 }

@@ -280,5 +280,20 @@
   "friends_loading": "Loading friends list...",
   "locket_count": {
     "title": "Locket count"
+  },
+  "widget_frame": {
+    "title": "Widget frame",
+    "change_frame": "Change widget frame",
+    "change_frame_desc": "Choose the frame shown on your widget",
+    "pick": "Choose a frame",
+    "none": "None",
+    "priority_title": "Priority mode",
+    "priority_desc": "Decide whether to use Locket's frame or yours",
+    "locket_first": "Prefer Locket's frame",
+    "always_override": "Always use my frame",
+    "empty": "No frames available",
+    "load_failed": "Failed to load frame list",
+    "save_success": "Widget frame saved",
+    "save_failed": "Failed to save widget frame"
   }
 }
