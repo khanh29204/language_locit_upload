@@ -295,5 +295,31 @@
     "load_failed": "Không tải được danh sách khung",
     "save_success": "Đã lưu khung widget",
     "save_failed": "Lưu khung widget thất bại"
+  },
+  "ticket": {
+    "title": "Hỗ trợ",
+    "support": "Liên hệ hỗ trợ",
+    "new": "Tạo yêu cầu mới",
+    "create_title": "Tạo yêu cầu hỗ trợ",
+    "subject_placeholder": "Chủ đề (không bắt buộc)",
+    "content_placeholder": "Mô tả vấn đề bạn gặp phải...",
+    "add_image": "Thêm ảnh",
+    "submit": "Gửi yêu cầu",
+    "empty": "Chưa có yêu cầu hỗ trợ nào",
+    "no_subject": "(Không có chủ đề)",
+    "status_open": "Đang mở",
+    "status_resolved": "Đã giải quyết",
+    "status_closed": "Đã đóng",
+    "input_placeholder": "Nhập tin nhắn...",
+    "closed_notice": "Yêu cầu này đã đóng, không thể gửi thêm tin nhắn.",
+    "resolved_notice": "Vấn đề đã được đánh dấu giải quyết. Nhắn tin tiếp để mở lại yêu cầu.",
+    "existing_open": "Bạn đã có một yêu cầu đang mở",
+    "rate_limited": "Tạo yêu cầu quá nhanh, vui lòng thử lại sau",
+    "send_failed": "Không gửi được tin nhắn",
+    "upload_failed": "Tải ảnh lên thất bại",
+    "image_too_large": "Ảnh vượt quá 5MB",
+    "image_limit": "Chọn tối đa 3 ảnh",
+    "load_failed": "Không tải được dữ liệu",
+    "error": "Có lỗi xảy ra, vui lòng thử lại"
   }
 }

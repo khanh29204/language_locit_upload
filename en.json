@@ -295,5 +295,31 @@
     "load_failed": "Failed to load frame list",
     "save_success": "Widget frame saved",
     "save_failed": "Failed to save widget frame"
+  },
+  "ticket": {
+    "title": "Support",
+    "support": "Contact support",
+    "new": "New request",
+    "create_title": "Create support request",
+    "subject_placeholder": "Subject (optional)",
+    "content_placeholder": "Describe your issue...",
+    "add_image": "Add image",
+    "submit": "Submit",
+    "empty": "No support requests yet",
+    "no_subject": "(No subject)",
+    "status_open": "Open",
+    "status_resolved": "Resolved",
+    "status_closed": "Closed",
+    "input_placeholder": "Type a message...",
+    "closed_notice": "This request is closed and can no longer receive messages.",
+    "resolved_notice": "Marked as resolved. Send a message to reopen.",
+    "existing_open": "You already have an open request",
+    "rate_limited": "Creating requests too fast, please try again later",
+    "send_failed": "Failed to send message",
+    "upload_failed": "Image upload failed",
+    "image_too_large": "Image exceeds 5MB",
+    "image_limit": "Up to 3 images",
+    "load_failed": "Failed to load data",
+    "error": "Something went wrong, please try again"
   }
 }
