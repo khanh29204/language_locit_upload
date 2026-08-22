@@ -320,6 +320,8 @@
     "image_too_large": "Ảnh vượt quá 5MB",
     "image_limit": "Chọn tối đa 3 ảnh",
     "load_failed": "Không tải được dữ liệu",
-    "error": "Có lỗi xảy ra, vui lòng thử lại"
+    "error": "Có lỗi xảy ra, vui lòng thử lại",
+    "empty_desc": "Mô tả vấn đề bạn gặp phải, đội hỗ trợ sẽ phản hồi sớm nhất có thể.",
+    "support_team": "Đội hỗ trợ"
   }
 }

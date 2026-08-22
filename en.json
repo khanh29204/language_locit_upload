@@ -320,6 +320,8 @@
     "image_too_large": "Image exceeds 5MB",
     "image_limit": "Up to 3 images",
     "load_failed": "Failed to load data",
-    "error": "Something went wrong, please try again"
+    "error": "Something went wrong, please try again",
+    "empty_desc": "Describe your issue and our team will get back to you as soon as possible.",
+    "support_team": "Support team"
   }
 }
