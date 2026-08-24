@@ -253,7 +253,9 @@
     "blur_caption_effect": "Hiệu ứng làm mờ chú thích",
     "select_color": "Chọn màu",
     "default_grid": "Mặc định xem lịch sử dạng lưới",
-    "haptic_feedback": "Phản hồi xúc giác"
+    "haptic_feedback": "Phản hồi xúc giác",
+    "emoji_suggestion": "Gợi ý emoji react",
+    "emoji_suggestion_subtitle": "Hiển thị emoji gợi ý khi bày tỏ cảm xúc moment"
   },
   "comment": "Bình luận",
   "changelog": {

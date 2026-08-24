@@ -253,7 +253,9 @@
     "blur_caption_effect": "Blur caption effect",
     "select_color": "Select color",
     "default_grid": "Default view history grid",
-    "haptic_feedback": "Haptic feedback"
+    "haptic_feedback": "Haptic feedback",
+    "emoji_suggestion": "Emoji reaction suggestions",
+    "emoji_suggestion_subtitle": "Show suggested emojis when reacting to a moment"
   },
   "comment": "Comment",
   "changelog": {
