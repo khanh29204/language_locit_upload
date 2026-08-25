@@ -220,6 +220,7 @@
   "config_widget": "Cấu hình Widget",
   "save_and_reaload_widget": "Lưu & Cập nhật Widget",
   "enconnaborted": "Request timeout. Vui lòng thử lại",
+  "error_side_system": "Hệ thống",
   "err_timeout": "Request timeout. Vui lòng thử lại",
   "err_network": "Mất kết nối server hoặc lỗi Internet",
   "network_request_failed": "Không có kết nối mạng",

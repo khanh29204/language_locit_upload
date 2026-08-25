@@ -230,6 +230,7 @@
   "err_connection_timeout": "Connection to server took too long. Please check your internet connection",
   "err_canceled": "Request was canceled",
   "err_ssl": "Connection security error (SSL). Please check your internet connection or VPN",
+  "error_side_system": "System",
   "err_timeout": "Request timeout. Please try again",
   "common": {
     "cancel": "Cancel",
