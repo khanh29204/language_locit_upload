@@ -242,6 +242,7 @@
     "title": "Settings",
     "custom": "General",
     "performance": "Performance",
+    "network": "Network & Connection",
     "friend_manager": "Friend management",
     "account": "Account",
     "camera_first": "Launch camera by default",
@@ -256,7 +257,11 @@
     "default_grid": "Default view history grid",
     "haptic_feedback": "Haptic feedback",
     "emoji_suggestion": "Emoji reaction suggestions",
-    "emoji_suggestion_subtitle": "Show suggested emojis when reacting to a moment"
+    "emoji_suggestion_subtitle": "Show suggested emojis when reacting to a moment",
+    "international_routing": {
+      "title": "International Routing",
+      "description": "Route traffic abroad to fix connection drops and network lag (use only when needed to prevent being flagged)"
+    }
   },
   "comment": "Comment",
   "changelog": {

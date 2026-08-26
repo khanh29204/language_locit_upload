@@ -242,6 +242,7 @@
     "title": "Cài đặt",
     "custom": "Tùy chỉnh",
     "performance": "Hiệu suất",
+    "network": "Mạng & Kết nối",
     "friend_manager": "Quản lý bạn bè",
     "account": "Tài khoản",
     "camera_first": "Mặc định mở camera",
@@ -256,7 +257,11 @@
     "default_grid": "Mặc định xem lịch sử dạng lưới",
     "haptic_feedback": "Phản hồi xúc giác",
     "emoji_suggestion": "Gợi ý emoji react",
-    "emoji_suggestion_subtitle": "Hiển thị emoji gợi ý khi bày tỏ cảm xúc moment"
+    "emoji_suggestion_subtitle": "Hiển thị emoji gợi ý khi bày tỏ cảm xúc moment",
+    "international_routing": {
+      "title": "Định tuyến quốc tế",
+      "description": "Chuyển lưu lượng ra nước ngoài để khắc phục lỗi mạng và đứt cáp (chỉ dùng khi cần thiết, tránh bị quét)"
+    }
   },
   "comment": "Bình luận",
   "changelog": {
