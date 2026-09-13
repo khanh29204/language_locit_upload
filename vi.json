@@ -188,7 +188,12 @@
     "delete_confirm_title": "Xóa giao diện",
     "delete_confirm_msg": "Bạn có chắc chắn muốn xóa giao diện này không?",
     "applying": "Đang áp dụng giao diện...",
-    "preview": "Xem trước"
+    "preview": "Xem trước",
+    "palette": "Bảng màu",
+    "gradient": "Dải màu nền",
+    "editor": "Chỉnh sửa",
+    "theme_info": "Thông tin giao diện",
+    "add_color": "Thêm màu"
   },
   "search_by_name_or_username": "Tìm kiếm bằng tên hoặc username",
   "process_all": "Xử lý tất cả",

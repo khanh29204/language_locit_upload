@@ -188,7 +188,12 @@
     "delete_confirm_title": "Delete theme",
     "delete_confirm_msg": "Are you sure you want to delete this theme?",
     "applying": "Applying theme...",
-    "preview": "Preview"
+    "preview": "Preview",
+    "palette": "Palette",
+    "gradient": "Background Gradient",
+    "editor": "Editor",
+    "theme_info": "Theme Details",
+    "add_color": "Add Color"
   },
   "search_by_name_or_username": "Search by name or username",
   "process_all": "Process all",
