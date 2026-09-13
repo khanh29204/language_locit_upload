@@ -331,5 +331,12 @@
     "error": "Something went wrong, please try again",
     "empty_desc": "Describe your issue and our team will get back to you as soon as possible.",
     "support_team": "Support team"
+  },
+  "friend_stats": {
+    "total": "Total Friends",
+    "loaded": "Loaded",
+    "failed": "Failed",
+    "reload_failed": "Reload Failed Friends",
+    "reloading": "Reloading..."
   }
 }
