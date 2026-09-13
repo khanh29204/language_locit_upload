@@ -253,6 +253,7 @@
     "video_sound_subtitle": "Only unofficial clients can playback audio",
     "action": "Action",
     "blur_caption_effect": "Blur caption effect",
+    "blur_caption_effect_desc": "Only supported on Android 12 (API 31) and above",
     "select_color": "Select color",
     "default_grid": "Default view history grid",
     "haptic_feedback": "Haptic feedback",

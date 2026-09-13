@@ -253,6 +253,7 @@
     "video_sound_subtitle": "Chỉ app này hoặc các web app mới nghe được",
     "action": "Hành động",
     "blur_caption_effect": "Hiệu ứng làm mờ chú thích",
+    "blur_caption_effect_desc": "Chỉ hỗ trợ từ Android 12 (API 31) trở lên",
     "select_color": "Chọn màu",
     "default_grid": "Mặc định xem lịch sử dạng lưới",
     "haptic_feedback": "Phản hồi xúc giác",
