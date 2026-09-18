@@ -159,6 +159,7 @@
   "queue_file_not_found": "File path not found",
   "queue_file_not_exist": "File does not exist",
   "queue_file_unknown": "Unknown",
+  "uploading": "Uploading",
   "noti_waiting_upload_title": "Upload Queue",
   "noti_waiting_upload_body": "{{count}} moment(s) waiting. Tap to upload now.",
   "noti_uploading_title": "Uploading...",

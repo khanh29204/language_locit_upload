@@ -159,6 +159,7 @@
   "queue_file_not_found": "Không tìm thấy đường dẫn",
   "queue_file_not_exist": "File không tồn tại",
   "queue_file_unknown": "Không xác định",
+  "uploading": "Đang up",
   "noti_waiting_upload_title": "Hàng đợi upload",
   "noti_waiting_upload_body": "Có {{count}} moment đang chờ. Nhấn để thử upload ngay.",
   "noti_uploading_title": "Đang upload...",
