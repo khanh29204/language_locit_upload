@@ -316,6 +316,8 @@
     "custom": "Tùy chỉnh",
     "performance": "Hiệu suất",
     "network": "Mạng & Kết nối",
+    "background_upload": "Tự upload dưới nền",
+    "background_upload_subtitle": "Tự động tải moment trong hàng đợi khi app chạy nền",
     "friend_manager": "Quản lý bạn bè",
     "account": "Tài khoản",
     "camera_first": "Mặc định mở camera",

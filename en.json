@@ -316,6 +316,8 @@
     "custom": "General",
     "performance": "Performance",
     "network": "Network & Connection",
+    "background_upload": "Background upload",
+    "background_upload_subtitle": "Automatically upload queued moments when the app is in the background",
     "friend_manager": "Friend management",
     "account": "Account",
     "camera_first": "Launch camera by default",
