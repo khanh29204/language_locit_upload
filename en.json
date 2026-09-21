@@ -211,6 +211,8 @@
     "preview": "Preview",
     "palette": "Palette",
     "gradient": "Background Gradient",
+    "background_image": "Background image",
+    "background_image_blur": "Blur",
     "editor": "Editor",
     "theme_info": "Theme Details",
     "add_color": "Add Color",

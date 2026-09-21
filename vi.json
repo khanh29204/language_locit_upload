@@ -211,6 +211,8 @@
     "preview": "Xem trước",
     "palette": "Bảng màu",
     "gradient": "Dải màu nền",
+    "background_image": "Ảnh nền",
+    "background_image_blur": "Độ mờ",
     "editor": "Chỉnh sửa",
     "theme_info": "Thông tin giao diện",
     "add_color": "Thêm màu",
