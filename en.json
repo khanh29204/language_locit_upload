@@ -43,6 +43,8 @@
   "music_step_download": "Downloading song…",
   "music_step_encode": "Converting to MP3…",
   "music_step_upload": "Saving to library…",
+  "music_step_backfill": "Computing waveform…",
+  "music_step_server_note": "These steps run on our server — no mobile data used",
   "email_reset_password_send": "Password reset email sent",
   "display_name_updateed_successfully": "Display name updated successfully",
   "update_failed": "Update failed",

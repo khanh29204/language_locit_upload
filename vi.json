@@ -43,6 +43,8 @@
   "music_step_download": "Đang tải bài hát…",
   "music_step_encode": "Đang chuyển đổi MP3…",
   "music_step_upload": "Đang lưu vào thư viện…",
+  "music_step_backfill": "Đang tính toán waveform…",
+  "music_step_server_note": "Các bước này xử lý trên server, không tốn dữ liệu di động của bạn",
   "email_reset_password_send": "Đã gửi email đặt lại mật khẩu",
   "display_name_updateed_successfully": "Tên hiển thị đã được cập nhật thành công",
   "update_failed": "Cập nhật không thành công",
